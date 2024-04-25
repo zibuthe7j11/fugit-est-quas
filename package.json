@@ -1,18 +1,55 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/fugit-est-quas",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "workspace:*",
+    "a11y",
+    "date",
+    "nope",
+    "xterm",
+    "chrome",
+    "shebang",
+    "CSSStyleDeclaration",
+    "touch",
+    "monorepo",
+    "styling",
+    "joi",
+    "jsonschema",
+    "urls",
+    "configurable",
+    "regexp",
+    "sameValueZero",
+    "uuid",
+    "gdpr",
+    "plugin",
+    "bound",
+    "password",
+    "debugger",
+    "iterator",
+    "toSorted",
+    "querystring",
+    "xdg-open",
+    "react",
+    "graphql",
+    "folder",
+    "Rx"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/fugit-est-quas.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/fugit-est-quas/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/fugit-est-quas/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
